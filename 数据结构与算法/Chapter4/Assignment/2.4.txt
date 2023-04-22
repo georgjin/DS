@@ -1,0 +1,5 @@
+H(H(T(H(T(H(T(L)))))))
+
+T(L) = ((orange,(strawberry,(banana)),peach),pear)
+H(T(L)) = (orange,(strawberry,(banana)),peach)
+T(H(T(L))) = ((strawberry,(banana)),peach)
